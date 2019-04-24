@@ -1,7 +1,9 @@
 package GroupA;
 
-public class pattern{
+public class PatternUpadate {
+
 	public static void main(String[] args) {
+
 		int i = 3;
 		char c ='a';
 		int k =1;
@@ -28,7 +30,8 @@ public class pattern{
 					}
 				}
 			}
-		}
 		
-	
+
+	}
+
 }
